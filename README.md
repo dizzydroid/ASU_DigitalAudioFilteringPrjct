@@ -38,11 +38,11 @@
 - [Scipy Signal Butter Function](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.butter.html)
 
 ## Team Members
-- Shehab Mahmoud Salah
-- Abdelrahman Hany Mohamed
-- Youssef Ahmed Mohamed
-- Omar Mamon Hamed
-- Seif Eldeen Ahmed Abdulaziz
+- [dizzydroid](https://github.com/dizzydroid)
+- [DopeBiscuit](https://github.com/DopeBiscuit)
+- [Youssef9112](https://github.com/Youssef9112)
+- [seifelwarwary](https://github.com/seifelwarwary)
+- Omar Mamon
 
 ## License
 📜 [MIT License](LICENSE)
