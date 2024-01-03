@@ -18,7 +18,7 @@
 ## Repository Contents
 - `audio_filter.py` - The main Python script for audio filtering.
 - `Audio_Filtering.ipynb` - Jupyter Notebook with detailed documentation and plots.
-- `Documentation.pdf` - This documentation file.
+- `Documentation.pdf` - Project documentation.
 
 ## Usage
 👩‍💻 The Python script can be accessed [here](audio_filter.py). For a detailed explanation and visualization, refer to the [Jupyter Notebook](Audio_Filtering.ipynb).
