@@ -1,5 +1,9 @@
 # 🎵 Audio Filtering Project
 
+<div id="header" align="left">
+ <img src="img.png">
+</div>
+
 ## Overview
 👉 This project focuses on developing a code that filters an audio file from the computer’s disk. It plots the audio signal in both time and frequency domains for both the input and output signals.
 
@@ -44,4 +48,4 @@
 📜 [MIT License](LICENSE)
 
 ## Contact
-📧 For any queries, please contact [email](mailto:example@example.com).
+💬 For any queries, feel free to reach out!
