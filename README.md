@@ -42,7 +42,7 @@
 - [DopeBiscuit](https://github.com/DopeBiscuit)
 - [Youssef9112](https://github.com/Youssef9112)
 - [seifelwarwary](https://github.com/seifelwarwary)
-- Omar Mamon
+- [OmarMamon20](https://github.com/OmarMamon20)
 
 ## License
 📜 [MIT License](LICENSE)
